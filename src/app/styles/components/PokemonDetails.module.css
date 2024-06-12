@@ -1,0 +1,21 @@
+/* src/styles/components/PokemonDetails.module.css */
+
+.pokemonDetails {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .pokemonDetails img {
+    width: 150px;
+    height: 150px;
+  }
+  
+  .pokemonDetails h1 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .pokemonDetails p {
+    color: #666;
+  }
+  
